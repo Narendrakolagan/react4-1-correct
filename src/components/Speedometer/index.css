@@ -1,0 +1,41 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-heading {
+  color: white;
+  font-size: 30px;
+  font-family: Roboto;
+}
+.img1 {
+  height: 200px;
+  width: 300px;
+}
+.heading2 {
+  color: white;
+  font-family: Roboto;
+}
+.paragraph {
+  color: white;
+  font-family: Roboto;
+}
+.button1 {
+  background-color: blue;
+
+  border-radius: 5px;
+  padding: 10px;
+}
+.button2 {
+  background-color: black;
+  color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-color: white;
+  margin-left: 20px;
+  padding: 10px;
+}
